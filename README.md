@@ -1,5 +1,5 @@
 <h2> 👋 Hello, I’m Prasetia </h2>
-- 👀 I’m interested in Frontend Development & Project Management <br/>
+- 👀 I’m interested in Web Development & Project Management <br/>
 - 🌱 I’m currently learning Javascript (React.js, Vue.js) for Frontend & Go, Rust & laravel for Backend <br/>
 - 📫 How to reach me: Reach out to me directly through my web https://portfolio-prasetiaadi.vercel.app/ <br/>
 
